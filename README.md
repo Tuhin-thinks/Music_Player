@@ -17,7 +17,7 @@ This code will be on PEP 8 -- Python Code Style. Please follow the link if you n
 ##### Deployment notes will be updated later.
 
 ## Built With
-1. Python -- version 3.8 or above
+1. Python -- version 3.6 or above
 2. pip -- Dependency Management
 3. PyGames -- python framework used for audio playing
 4. PyQt5 -- python framework used for GUI
